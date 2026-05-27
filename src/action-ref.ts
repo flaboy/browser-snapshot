@@ -1,4 +1,4 @@
-import type { RefState } from './types'
+import type { RefState } from './types.js'
 
 export type ValidateActionRefResult =
   | { ok: true }

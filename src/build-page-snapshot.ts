@@ -1,4 +1,4 @@
-import type { PageSnapshot, PageTable, RefState, SnapshotRow } from './types'
+import type { PageSnapshot, PageTable, RefState, SnapshotRow } from './types.js'
 
 export type BuildPageSnapshotResult = {
   page: PageSnapshot
