@@ -18,7 +18,8 @@
   ],
   "scripts": {
     "build": "tsc -p tsconfig.json",
-    "test": "vitest"
+    "test": "vitest",
+    "validate": "npm test -- --run && npm run build"
   },
   "keywords": [],
   "author": "",

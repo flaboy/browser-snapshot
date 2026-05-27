@@ -1,0 +1,18 @@
+{
+  "url": "https://example.com",
+  "title": "Example",
+  "groups": {
+    "links": {
+      "columns": ["ref", "tag", "text", "href"],
+      "rows": [["e1", "A", "Docs", "/docs"]]
+    },
+    "buttons": {
+      "columns": ["ref", "tag", "text"],
+      "rows": [["e2", "BUTTON", "Save"]]
+    },
+    "texts": {
+      "columns": ["ref", "tag", "text", "textLength"],
+      "rows": [["t1", "ARTICLE", "Readable text block", 19]]
+    }
+  }
+}

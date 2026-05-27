@@ -1,0 +1,29 @@
+{
+  "e1": {
+    "ref": "e1",
+    "kind": "element",
+    "role": "a",
+    "name": "Docs",
+    "tagName": "a",
+    "text": "Docs",
+    "selector": "a:nth-of-type(1)"
+  },
+  "e2": {
+    "ref": "e2",
+    "kind": "element",
+    "role": "button",
+    "name": "Save",
+    "tagName": "button",
+    "text": "Save",
+    "selector": "button:nth-of-type(1)"
+  },
+  "t1": {
+    "ref": "t1",
+    "kind": "text",
+    "role": "",
+    "name": "",
+    "tagName": "article",
+    "text": "Readable text block",
+    "selector": "article:nth-of-type(1)"
+  }
+}

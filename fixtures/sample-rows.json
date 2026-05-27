@@ -1,0 +1,38 @@
+[
+  {
+    "selector": "a:nth-of-type(1)",
+    "group": "links",
+    "role": "a",
+    "name": "Docs",
+    "text": "Docs",
+    "tagName": "a",
+    "href": "/docs",
+    "value": "",
+    "placeholder": "",
+    "textLength": 4
+  },
+  {
+    "selector": "button:nth-of-type(1)",
+    "group": "buttons",
+    "role": "button",
+    "name": "Save",
+    "text": "Save",
+    "tagName": "button",
+    "href": "",
+    "value": "",
+    "placeholder": "",
+    "textLength": 4
+  },
+  {
+    "selector": "article:nth-of-type(1)",
+    "group": "texts",
+    "role": "",
+    "name": "",
+    "text": "Readable text block",
+    "tagName": "article",
+    "href": "",
+    "value": "",
+    "placeholder": "",
+    "textLength": 19
+  }
+]
